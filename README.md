@@ -1,6 +1,6 @@
 ## Weather App
 
-Use the [OpenWeather API](http://openweathermap.org/current) to fetch the weather from a certain zip code, and update the page to reflect the current weather.
+Use the [OpenWeather API](http://openweathermap.org/current) to fetch the weather from a certain zip code, and update the page to reflect the current weather. [Documentation](http://openweathermap.org/current)
 
 ### Requirements
 - Ask the user to input the zip they would like to see the weather for.
