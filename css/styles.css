@@ -1,0 +1,11 @@
+body {
+	background-color: red;
+	text-align: center;
+}
+
+p {
+	display: inline-block;
+}
+h1{
+	font-size: 20em;
+}
